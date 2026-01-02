@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 💫 About Me:
+🎓 B.Com Student at MSU | 💻 Computer Enthusiast & Automation Explorer<br><br>A commerce academic with a deep passion for understanding how computers work—from hardware to software. I love diving into the core concepts of computing and programming languages to build efficient, automated solutions.<br><br>Currently focused on:<br><br>Learning Bash and Python to automate workflows and boost productivity<br><br>Exploring system internals, scripting, and practical tooling<br><br>Applying tech skills to streamline both academic and real-world tasks<br><br>Goal: Bridge the gap between commerce and technology by using automation to solve everyday problems, optimize processes, and keep learning deeply.<br><br>“Understand deeply, automate intelligently.”
+
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=x11kitty&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=x11kitty&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=x11kitty&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=x11kitty&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

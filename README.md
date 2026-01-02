@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![banner](banner.png)
 <!--
 **x11kitty/x11kitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 # 💫 About Me:
 -->
-💫 About Me:
+💫 About Me:<br><br>
 🚀 Computerphile & Linux Enthusiast<br>Automation Specialist | Systems Explorer<br>A dedicated technology enthusiast with a deep-seated passion for understanding computing systems at their core. Driven by curiosity and precision, I focus on mastering Bash and Python to build efficient, automated workflows that enhance productivity and system performance.<br><br>🔹 Currently Mastering:<br>Bash Scripting | Python Automation | Linux Customization<br><br>🔹 Core Interests:<br>System Internals • Scripting & Automation • Workflow Optimization • Open-Source Tools<br><br>🔹 Objective:<br>To deepen my technical expertise and implement elegant, automated solutions that streamline operations and demonstrate the power of a well-understood system.<br><br>“First understand the system — then teach it to work for you.”
 
 

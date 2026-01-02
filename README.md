@@ -1,49 +1,35 @@
-# Hi there 👋 
-<p align="left">
-  <img src="thumb.png" width="100" />
-  <img src="air.gif" width="300" />
-</p>
+## Hi there 👋
+![thumb](thumb.png)
+<br><br>
+![GIF](air.gif)
+<br><br>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h2>💫 About Me</h2>
-      <p><b>🖥️ Computerphile & 🧩 Linux Enthusiast</b><br>
-      <i>Automation Specialist | Systems Explorer</i></p>
-      <p>A dedicated technology enthusiast focused on mastering Bash and Python to build efficient, automated workflows.</p>
-      <p>
-        🔹 <b>Mastering:</b> Bash, Python, Linux Customization<br>
-        🔹 <b>Interests:</b> System Internals, Workflow Optimization<br>
-        🔹 <b>Objective:</b> Streamlining operations through elegant automation.
-      </p>
-      <blockquote>“First understand the system — then teach it to work for you.”</blockquote>
-    </td>
-    <td width="50%" valign="top">
-      <h2>📊 GitHub Stats</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=x11kitty&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="100%"><br><br>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=x11kitty&theme=tokyonight&hide_border=false" width="100%">
-    </td>
-  </tr>
-</table>
+<!--
+**x11kitty/x11kitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
----
+Here are some ideas to get you started:
 
-## 💻 Tech Stack & Skills
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=#5aff57" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+# 💫 About Me:
+-->
+💫 About Me:<br><br>
+🖥️ Computerphile And 🧩 Linux Enthusiast<br>Automation Specialist | Systems Explorer<br>A dedicated technology enthusiast with a deep-seated passion for understanding computing systems at their core. Driven by curiosity and precision, I focus on mastering Bash and Python to build efficient, automated workflows that enhance productivity and system performance.<br><br>🔹 Currently Mastering:<br>Bash Scripting | Python Automation | Linux Customization<br><br>🔹 Core Interests:<br>System Internals • Scripting & Automation • Workflow Optimization • Open-Source Tools<br><br>🔹 Objective:<br>To deepen my technical expertise and implement elegant, automated solutions that streamline operations and demonstrate the power of a well-understood system.<br><br>“First understand the system — then teach it to work for you.”
 
-<table>
-  <tr>
-    <td width="60%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x11kitty&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%">
-    </td>
-    <td width="40%" align="center">
-      <h3>✍️ Dev Quote</h3>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%">
-    </td>
-  </tr>
-</table>
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=#5aff57) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=x11kitty&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=x11kitty&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=x11kitty&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

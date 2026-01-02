@@ -14,16 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 # 💫 About Me:
--->
-💫 About Me:<br>🎓 B.Com Student at MSU | 💻 Computer Enthusiast & Automation Explorer<br><br>A commerce academic with a deep passion for understanding how computers work—from hardware to software. I love diving into the core concepts of computing and programming languages to build efficient, automated solutions.<br><br>Currently focused on:<br><br>Learning Bash and Python to automate workflows and boost productivity<br><br>Exploring system internals, scripting, and practical tooling<br><br>Applying tech skills to streamline both academic and real-world tasks<br><br>Goal: Bridge the gap between commerce and technology by using automation to solve everyday problems, optimize processes, and keep learning deeply.<br><br>“Understand deeply, automate intelligently.”<br>
+--># 💫 About Me:
+🚀 Computerphile & Linux Enthusiast<br>Automation Specialist | Systems Explorer<br>A dedicated technology enthusiast with a deep-seated passion for understanding computing systems at their core. Driven by curiosity and precision, I focus on mastering Bash and Python to build efficient, automated workflows that enhance productivity and system performance.<br><br>🔹 Currently Mastering:<br>Bash Scripting | Python Automation | Linux Customization<br><br>🔹 Core Interests:<br>System Internals • Scripting & Automation • Workflow Optimization • Open-Source Tools<br><br>🔹 Objective:<br>To deepen my technical expertise and implement elegant, automated solutions that streamline operations and demonstrate the power of a well-understood system.<br><br>“First understand the system — then teach it to work for you.”
 
 
 # 💻 Tech Stack:
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=green) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=x11kitty&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=x11kitty&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=x11kitty&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=x11kitty&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=x11kitty&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=x11kitty&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=x11kitty&icon=0&color=0)](https://visitcount.itsvg.in)

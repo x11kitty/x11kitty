@@ -14,14 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 # 💫 About Me:
--->
-# About Me 💫
-🎓 B.Com Student at MSU | 💻 Computer Enthusiast & Automation Explorer<br><br>A commerce academic with a deep passion for understanding how computers work—from hardware to software. I love diving into the core concepts of computing and programming languages to build efficient, automated solutions.<br><br>Currently focused on:<br><br>Learning Bash and Python to automate workflows and boost productivity<br><br>Exploring system internals, scripting, and practical tooling<br><br>Applying tech skills to streamline both academic and real-world tasks<br><br>Goal: Bridge the gap between commerce and technology by using automation to solve everyday problems, optimize processes, and keep learning deeply.<br><br>“Understand deeply, automate intelligently.”<br>
+--># 💫 About Me:
+💫 About Me:<br>🎓 B.Com Student at MSU | 💻 Computer Enthusiast & Automation Explorer<br><br>A commerce academic with a deep passion for understanding how computers work—from hardware to software. I love diving into the core concepts of computing and programming languages to build efficient, automated solutions.<br><br>Currently focused on:<br><br>Learning Bash and Python to automate workflows and boost productivity<br><br>Exploring system internals, scripting, and practical tooling<br><br>Applying tech skills to streamline both academic and real-world tasks<br><br>Goal: Bridge the gap between commerce and technology by using automation to solve everyday problems, optimize processes, and keep learning deeply.<br><br>“Understand deeply, automate intelligently.”<br>
 
-</>
 
 # 💻 Tech Stack:
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=green) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=x11kitty&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=x11kitty&theme=tokyonight&hide_border=false)<br/>

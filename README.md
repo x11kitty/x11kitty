@@ -49,18 +49,7 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <div align="center">
-          <br>
-          $${ \color{#A6E3A1} \Huge \text{“First understand the system —} }$$
-          $${ \color{#A6E3A1} \Huge \text{then teach it to work for you.”} }$$
-          <br>
-        </div>
-      </td>
-    </tr>
-  </table>
+  $${ \color{#A6E3A1} \Large \text{“First understand the system — then teach it to work for you.”} }$$
 </div>
 
 

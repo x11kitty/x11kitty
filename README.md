@@ -1,3 +1,4 @@
+## Hi there 👋
 ![thumb](thumb.png)
 <br><br>
 ![GIF](air.gif)
@@ -18,6 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 # 💫 About Me:
 -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=200&section=header&text=x11kitty&fontSize=80&theme=tokyonight" />
 </p>
@@ -50,32 +52,19 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
   </a>
 </p>
 
----
-
-## 📊 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&color=ff9e64&width=250&lines=System+Stats" />
+## 💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&color=7dcfff&width=220&lines=Tech+Stack" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x11kitty&theme=tokyonight&show_icons=true&hide_border=true" width="480" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x11kitty&theme=tokyonight&layout=compact&hide_border=true" width="400" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,python,linux,arch,vim,git,github,fastapi&perline=5" />
+  </a>
 </p>
 
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=x11kitty&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=x11kitty&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=x11kitty&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## ✍️ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&color=f7768e&width=280&lines=Dev+Philosophy" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&weight=600&size=22&pause=1000&color=94e2d5&center=true&vCenter=true&width=600&lines=“First+understand+the+system;—+then+teach+it+to+work+for+you.”" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="500" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Online-a6e3a1?style=flat-square" /> 
-  <img src="https://img.shields.io/badge/Theme-Tokyo_Night-7aa2f7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Accent-Catppuccin-cba6f7?style=flat-square" />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

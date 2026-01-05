@@ -43,15 +43,6 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 * 🔹 **Objective:** To implement elegant, automated solutions that streamline operations.
 
 ---
-
-## 💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&color=7dcfff&width=220&lines=Tech+Stack" />
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,python,linux,arch,vim,git,github,vscode,docker,fastapi&theme=dark" />
-  </a>
-</p>
-
 ## 💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&color=7dcfff&width=220&lines=Tech+Stack" />
 
 <p align="center">

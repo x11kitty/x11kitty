@@ -44,9 +44,7 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 ---
 ## 💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&color=7dcfff&width=220&lines=Tech+Stack" />
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=#5aff57) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) 
-
-<img src="https://img.shields.io/badge/VIM-%20ARCH%20-89b4fa?style=flat-square&logo=arch-linux&logoColor=1e1e2e&labelColor=cba6f7" />
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=#5aff57) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)<img src="https://img.shields.io/badge/VIM-%20ARCH%20-89b4fa?style=flat-square&logo=arch-linux&logoColor=1e1e2e&labelColor=cba6f7" />
 
 <p align="center">
   <a href="https://skillicons.dev">

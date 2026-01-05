@@ -52,21 +52,10 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=fab387&center=true&vCenter=true&width=500&lines=📊+GitHub+Statistics;📈+Coding+Activity;🔥+Contribution+Metrics" alt="GitHub Stats Header" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x11kitty&theme=catppuccin_mocha&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=x11kitty&theme=catppuccin-mocha&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x11kitty&theme=catppuccin_mocha&layout=compact&hide_border=false" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=x11kitty&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=x11kitty&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=x11kitty&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

@@ -19,24 +19,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 # 💫 About Me:
 -->
-# 💫 <font color="#cba6f7">About Me</font>
+# 💫 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=cba6f7&width=200&lines=About+Me" alt="About Me" />
 
-### <font color="#89b4fa">🖥️ Computerphile & 🧩 Linux Enthusiast</font>
-**<font color="#94e2d5">Automation Specialist | Systems Explorer</font>**
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7aa2f7&width=500&lines=🖥️+Computerphile+%26+Linux+Enthusiast" alt="Header" />
+
+**<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&color=7dcfff&width=400&lines=Automation+Specialist+|+Systems+Explorer" alt="Subheader" />**
 
 A dedicated technology enthusiast with a deep-seated passion for understanding computing systems at their core. Driven by curiosity and precision, I focus on mastering **Bash** and **Python** to build efficient, automated workflows that enhance productivity and system performance.
 
-🔹 **<font color="#f9e2af">Currently Mastering:</font>**
-`Bash Scripting` | `Python Automation` | `Linux Customization`
+---
 
-🔹 **<font color="#fab387">Core Interests:</font>**
-System Internals • Scripting & Automation • Workflow Optimization • Open-Source Tools
+### 🛠️ Technical Focus
+* 🔹 **Currently Mastering:** <img src="https://img.shields.io/badge/Bash-cba6f7?style=flat-square&logo=gnu-bash&logoColor=313244" /> <img src="https://img.shields.io/badge/Python-89b4fa?style=flat-square&logo=python&logoColor=313244" /> <img src="https://img.shields.io/badge/Linux-a6e3a1?style=flat-square&logo=linux&logoColor=313244" />
+* 🔹 **Core Interests:** `System Internals` • `Scripting` • `Workflow Optimization`
+* 🔹 **Objective:** To deepen technical expertise and implement elegant, automated solutions.
 
-🔹 **<font color="#a6e3a1">Objective:</font>**
-To deepen my technical expertise and implement elegant, automated solutions that streamline operations.
+---
 
 <p align="center">
-  <i>"<font color="#f5c2e7">First understand the system — then teach it to work for you.</font>"</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&weight=500&size=19&pause=1000&color=f5c2e7&center=true&vCenter=true&width=600&lines=“First+understand+the+system;—+then+teach+it+to+work+for+you.”" alt="Quote" />
 </p>
 
 

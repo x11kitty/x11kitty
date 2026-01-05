@@ -49,20 +49,18 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 
 <div align="center">
-  <div style="
-    border: 1px solid #A6E3A1; 
-    border-radius: 15px; 
-    padding: 20px; 
-    width: fit-content; 
-    max-width: 80%;
-    background-color: rgba(166, 227, 161, 0.05);
-  ">
-    <p align="left" style="margin: 0;">
-      <font color="#A6E3A1" size="4" face="Courier New">
-        <i>“First understand the system — then teach it to work for you.”</i>
-      </font>
-    </p>
-  </div>
+  <table border="0">
+    <tr>
+      <td>
+        <div align="center">
+          <br>
+          $${ \color{#A6E3A1} \Huge \text{“First understand the system —} }$$
+          $${ \color{#A6E3A1} \Huge \text{then teach it to work for you.”} }$$
+          <br>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 

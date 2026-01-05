@@ -1,8 +1,7 @@
 ## Hi there 👋
 ![thumb](thumb.png)
-<br><br>
+<br>
 ![GIF](air.gif)
-<br><br>
 
 # 💫 About Me:
 
@@ -15,18 +14,19 @@ $\color{#cdd6f4}{\text{automated workflows that enhance productivity and system 
 
 <br>
 
-🔹 **$\color{#fab387}{\text{Currently Mastering:}}$**
+🔹 **$\color{#f9e2af}{\text{Currently Mastering:}}$**
 $\color{#bac2de}{\text{Bash Scripting | Python Automation | Linux Customization}}$
 
 🔹 **$\color{#f9e2af}{\text{Core Interests:}}$**
 $\color{#bac2de}{\text{System Internals • Scripting \& Automation • Workflow Optimization • Open-Source Tools}}$
 
-🔹 **$\color{#a6e3a1}{\text{Objective:}}$**
+🔹 **$\color{#f9e2af}{\text{Objective:}}$**
 $\color{#bac2de}{\text{To deepen my technical expertise and implement elegant, automated solutions that}}$
 $\color{#bac2de}{\text{streamline operations and demonstrate the power of a well-understood system.}}$
 
 <br>
 
+> [!IMPORTANT]
 > $\color{#f5c2e7}{\text{“First understand the system — then teach it to work for you.”}}$
 
 ---
@@ -38,12 +38,15 @@ $\color{#bac2de}{\text{streamline operations and demonstrate the power of a well
 
 [![My Skills](https://skillicons.dev/icons?i=bash,python,vim,arch,linux,github)](https://skillicons.dev)
 
+---
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=x11kitty&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=x11kitty&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x11kitty&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="300" />
+</p>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=x11kitty&theme=tokyonight&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=x11kitty&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

@@ -47,20 +47,19 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 
 
+
 <div align="center">
-<table border="0">
-<tr>
-<td align="left">
-
-<font color="#A6E3A1">
-
-> *“First understand the system — then teach it to work for you.”*
-
-</font>
-
-</td>
-</tr>
-</table>
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="left" style="border-left: 4px solid #A6E3A1; padding-left: 20px;">
+        <br>
+        <font size="4" color="#A6E3A1"><i>
+          “First understand the system — then teach it to work for you.”
+        </i></font>
+        <br><br>
+      </td>
+    </tr>
+  </table>
 </div>
 
 

@@ -45,6 +45,25 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 <br>🔹 **Core Interests:** `System Internals` • `Scripting And Automation ` • `Workflow Optimization` • `Open-Source Tools`
 <br>🔹 **Objective:** To deepen my technical expertise and implement elegant, automated solutions that streamline operations and demonstrate the power of a well-understood system.
 
+#
+<div align="center">
+<table border="0">
+<tr>
+<td align="left">
+  
+> *“First understand the system — then teach it to work for you.”*
+
+</td>
+</tr>
+</table>
+</div>
+
+### <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FE6D73&center=true&vCenter=true&width=435&lines=✍️+Random+Dev+Quote" alt="Typing SVG" /></p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+#
 ---
 ## 💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&color=7dcfff&width=220&lines=Tech+Stack" />
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=#5aff57) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)![Vim](https://img.shields.io/badge/%20%20%20%20%20Vim%20%20%20%20%20-a6e3a1?style=for-the-badge&logo=vim&logoColor=1e1e2e&labelColor=a6e3a1)

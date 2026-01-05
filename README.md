@@ -51,13 +51,15 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
     <img src="https://skillicons.dev/icons?i=bash,python,linux,arch,vim,git,github&perline=7" />
   </a>
 </p>
-# 📊 GitHub Stats:
+
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=94E2D5&center=true&vCenter=true&width=435&lines=📊+GitHub+Stats" alt="Typing SVG" /></p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x11kitty&theme=catppuccin_mocha&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=x11kitty&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak" />
 </p>
 
-### ✍️ Random Dev Quote
+### <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F38BA8&center=true&vCenter=true&width=435&lines=✍️+Random+Dev+Quote" alt="Typing SVG" /></p>
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="Dev Quote" />
 </p>

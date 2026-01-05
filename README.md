@@ -3,9 +3,9 @@
 </p>
 
 ![thumb](thumb.png)
-<br><br>
+<br>
 ![GIF](air.gif)
-<br><br>
+<br>
 
 <!--
 **x11kitty/x11kitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=200&section=header&text=x11kitty&fontSize=80&theme=tokyonight" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=cba6f7&center=true&vCenter=true&width=500&lines=Computerphile+%26+Linux+Enthusiast;Automation+Specialist;Systems+Explorer" alt="Typing SVG" />
 </p>

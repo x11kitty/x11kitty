@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 ![thumb](thumb.png)
 <br><br>
 ![GIF](air.gif)

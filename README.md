@@ -18,9 +18,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 # 💫 About Me:
--->
-💫 About Me:<br><br>
-🖥️ Computerphile And 🧩 Linux # Enthusiast<br>Automation Specialist | Systems Explorer<br>A dedicated technology enthusiast with a deep-seated passion for understanding computing systems at their core. Driven by curiosity and precision, I focus on mastering Bash and Python to build efficient, automated workflows that enhance productivity and system performance.<br><br>🔹 Currently Mastering:<br>Bash Scripting | Python Automation | Linux Customization<br><br>🔹 Core Interests:<br>System Internals • Scripting & Automation • Workflow Optimization • Open-Source Tools<br><br>🔹 Objective:<br>To deepen my technical expertise and implement elegant, automated solutions that streamline operations and demonstrate the power of a well-understood system.<br><br>“First understand the system — then teach it to work for you.”
+--># 💫 <font color="#cba6f7">About Me</font>
+
+### <font color="#89b4fa">🖥️ Computerphile & 🧩 Linux Enthusiast</font>
+**<font color="#94e2d5">Automation Specialist | Systems Explorer</font>**
+
+A dedicated technology enthusiast with a deep-seated passion for understanding computing systems at their core. Driven by curiosity and precision, I focus on mastering **Bash** and **Python** to build efficient, automated workflows that enhance productivity and system performance.
+
+🔹 **<font color="#f9e2af">Currently Mastering:</font>**
+`Bash Scripting` | `Python Automation` | `Linux Customization`
+
+🔹 **<font color="#fab387">Core Interests:</font>**
+System Internals • Scripting & Automation • Workflow Optimization • Open-Source Tools
+
+🔹 **<font color="#a6e3a1">Objective:</font>**
+To deepen my technical expertise and implement elegant, automated solutions that streamline operations.
+
+<p align="center">
+  <i>"<font color="#f5c2e7">First understand the system — then teach it to work for you.</font>"</i>
+</p>
 
 
 # 💻 Tech Stack:

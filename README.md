@@ -51,17 +51,13 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
     <img src="https://skillicons.dev/icons?i=bash,python,linux,arch,vim,git,github&perline=7" />
   </a>
 </p>
-
-# 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x11kitty&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=x11kitty&theme=tokyonight&hide_border=false" alt="Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x11kitty&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=x11kitty&theme=catppuccin_mocha&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=x11kitty&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="Dev Quote" />
+</p>

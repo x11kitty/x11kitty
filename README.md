@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 # 💫 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=cba6f7&width=200&lines=About+Me" alt="About Me" />
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7aa2f7&width=500&lines=🖥️+Computerphile+%26+Linux+Enthusiast" alt="Header" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7aa2f7&width=500&lines=🖥️+Computerphile+%26+Linux+Enthusiast" alt="Header" />
 
 **<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&color=7dcfff&width=400&lines=Automation+Specialist+|+Systems+Explorer" alt="Subheader" />**
 

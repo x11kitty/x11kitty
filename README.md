@@ -49,17 +49,20 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="left" style="border-left: 4px solid #A6E3A1; padding-left: 20px;">
-        <br>
-        <font size="4" color="#A6E3A1"><i>
-          “First understand the system — then teach it to work for you.”
-        </i></font>
-        <br><br>
-      </td>
-    </tr>
-  </table>
+  <div style="
+    border: 1px solid #A6E3A1; 
+    border-radius: 15px; 
+    padding: 20px; 
+    width: fit-content; 
+    max-width: 80%;
+    background-color: rgba(166, 227, 161, 0.05);
+  ">
+    <p align="left" style="margin: 0;">
+      <font color="#A6E3A1" size="4" face="Courier New">
+        <i>“First understand the system — then teach it to work for you.”</i>
+      </font>
+    </p>
+  </div>
 </div>
 
 

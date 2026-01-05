@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 # 💫 About Me:
---># 💫 <font color="#cba6f7">About Me</font>
+-->
+# 💫 <font color="#cba6f7">About Me</font>
 
 ### <font color="#89b4fa">🖥️ Computerphile & 🧩 Linux Enthusiast</font>
 **<font color="#94e2d5">Automation Specialist | Systems Explorer</font>**

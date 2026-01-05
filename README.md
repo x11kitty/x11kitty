@@ -39,7 +39,7 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 ### 🚀 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&color=7aa2f7&width=300&lines=Current+Focus" />
 
-<br><br>🔹 **Mastering:** <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=cba6f7" /> 
+🔹 **Mastering:** <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=cba6f7" /> 
   <img src="https://img.shields.io/badge/Python-121011?style=for-the-badge&logo=python&logoColor=89b4fa" /> 
   <img src="https://img.shields.io/badge/Arch_Linux-121011?style=for-the-badge&logo=arch-linux&logoColor=7dcfff" />
 <br><br>🔹 **Core Interests:** `System Internals` • `Scripting And Automation ` • `Workflow Optimization` • `Open-Source Tools`

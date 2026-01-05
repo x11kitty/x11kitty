@@ -50,16 +50,16 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
     <img src="https://skillicons.dev/icons?i=bash,python,linux,arch,vim,git,github,fastapi&perline=5" />
   </a>
 </p>
-## 📊 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&color=fab387&width=250&lines=GitHub+Stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x11kitty&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=x11kitty&theme=catppuccin_mocha&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x11kitty&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
 
-### ✍️ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&color=bac2de&width=300&lines=Dev+Quotes" />
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" /> 
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=x11kitty&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=x11kitty&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=x11kitty&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+

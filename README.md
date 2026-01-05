@@ -45,16 +45,20 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 <br>🔹 **Core Interests:** `System Internals` • `Scripting And Automation ` • `Workflow Optimization` • `Open-Source Tools`
 <br>🔹 **Objective:** To deepen my technical expertise and implement elegant, automated solutions that streamline operations and demonstrate the power of a well-understood system.
 
-
-
-
 <div align="center">
-  $${ \color{#A6E3A1} \Large \text{“First understand the system — then teach it to work for you.”} }$$
+  <table border="0">
+    <tr>
+      <td>
+        <div align="center">
+          <br>
+          $${ \color{#A6E3A1} \Huge \text{“First understand the system —} }$$
+          $${ \color{#A6E3A1} \Huge \text{then teach it to work for you.”} }$$
+          <br>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
-
-
-
-
 
 ---
 ## 💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&color=7dcfff&width=220&lines=Tech+Stack" />

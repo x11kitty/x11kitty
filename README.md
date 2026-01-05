@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=200&section=header&text=💫 About Me&fontSize=80&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=200&section=header&text=x11kitty&fontSize=80&theme=tokyonight" />
 </p>
 
 <p align="center">

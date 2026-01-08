@@ -71,32 +71,6 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
   <img src="https://nirzak-streak-stats.vercel.app/?user=x11kitty&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
-
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F9E2AF&center=true&vCenter=true&width=500&lines=📊+Weekly+Development+Breakdown" alt="Typing SVG" /></p>
-
-<p align="center">
-  <div style="
-    background: linear-gradient(135deg, #1a1826 0%, #161320 100%);
-    padding: 25px;
-    border-radius: 20px;
-    border: 2px solid;
-    border-image: linear-gradient(45deg, #e8a2af, #b5b4e2, #95d3a9) 1;
-    box-shadow: 0 10px 30px rgba(108, 112, 134, 0.3);
-    max-width: 800px;
-    margin: 0 auto;
-  ">
-    <img src="https://raw.githubusercontent.com/AndrewDongminYoo/wakatime-svg/output/generated/languages.svg" 
-         alt="WakaTime Language Stats" 
-         style="
-           border-radius: 12px;
-           background: #13111c;
-           padding: 15px;
-           width: 100%;
-           box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
-         "
-    />
-
-
 ### <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F38BA8&center=true&vCenter=true&width=435&lines=✍️+Random+Dev+Quote" alt="Typing SVG" /></p>
 
 <p align="center">

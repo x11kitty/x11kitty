@@ -76,7 +76,7 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 ### <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F38BA8&center=true&vCenter=true&width=435&lines=✍️+Random+Dev+Quote" alt="Typing SVG" /></p>
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&custom_title_color=87CEEB&text_color=87CEEB" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
 </p>
 
 <p>

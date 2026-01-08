@@ -97,10 +97,14 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=x11kitty&repo=repo-name&theme=catppuccin_mocha&hide_border=true&bg_color=1a1826&title_color=e8a2af&text_color=b5b4e2&icon_color=95d3a9" alt="Repo Card" />
-</p>
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x11kitty&repo=repo-name&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1a1826&title_color=e8a2af&text_color=b5b4e2&icon_color=95d3a9&langs_count=5" 
+       alt="Repository Languages" 
+       style="border-radius: 12px;"
+  />
+</p>
 
 
 

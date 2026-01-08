@@ -71,29 +71,6 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
   <img src="https://nirzak-streak-stats.vercel.app/?user=x11kitty&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
-### 📊 Weekly Development Breakdown
-<p align="center">
-  <div style="color: #cdd6f4; background: #1e1e2e; padding: 20px; border-radius: 15px; border: 2px solid #cba6f7; box-shadow: 0 0 15px rgba(203, 166, 247, 0.3);">
-    <h3 style="color: #f5e0dc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; text-align: center; margin-bottom: 20px; font-size: 24px;">
-      <span style="background: linear-gradient(90deg, #f5e0dc, #f2cdcd, #f5c2e7, #cba6f7, #f38ba8); background-clip: text; -webkit-background-clip: text; color: transparent; animation: gradient 3s ease infinite; background-size: 200% 200%;">
-        📊 Weekly Development Breakdown
-      </span>
-    </h3>
-    <img src="https://raw.githubusercontent.com/AndrewDongminYoo/wakatime-svg/output/generated/languages.svg" alt="WakaTime Language Stats" />
-    <div style="text-align: center; margin-top: 15px; color: #bac2de; font-size: 14px; font-family: 'SF Mono', Monaco, monospace;">
-      Catppuccin Mocha Theme • Updated Daily
-    </div>
-  </div>
-</p>
-
-<style>
-  @keyframes gradient {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-</style>
-
 ### <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F38BA8&center=true&vCenter=true&width=435&lines=✍️+Random+Dev+Quote" alt="Typing SVG" /></p>
 
 <p align="center">

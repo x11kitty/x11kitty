@@ -68,10 +68,12 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x11kitty&layout=compact&theme=tokyonight&langs_count=6&card_width=490&hide_border=true&title_color=cba6f7&icon_color=7dcfff&text_color=cdd6f4" alt="Top Langs" />
-</p>
 
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=x11kitty&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=94e2d5&text_color=cdd6f4&rank_icon=github" alt="GitHub Stats" />
+</p>
 
 
 

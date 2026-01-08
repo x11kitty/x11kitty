@@ -73,6 +73,11 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 ### <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F38BA8&center=true&vCenter=true&width=435&lines=✍️+Random+Dev+Quote" alt="Typing SVG" /></p>
 
+
+### [📊 WakaTime 코딩 타임 (최근 7일간 통계)](https://github.com/marketplace/actions/wakatime-svg)
+
+![WakaTime Languages](https://raw.githubusercontent.com/AndrewDongminYoo/wakatime-svg/output/generated/languages.svg)
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="Dev Quote" />
 </p>

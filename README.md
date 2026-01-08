@@ -65,6 +65,25 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
   </a>
 </p>
 
+
+
+/* Custom Swagger UI Retro Tokyo Theme */
+.swagger-ui {
+  background-color: #1a1b26;
+  color: #a9b1d6;
+}
+.swagger-ui .topbar { background-color: #24283b; }
+.swagger-ui .info .title { color: #7aa2f7; }
+.swagger-ui .opblock-summary-method {
+  background: #7aa2f7; /* Default blue for methods */
+  border-radius: 4px;
+}
+.swagger-ui .opblock.opblock-get { background: rgba(122, 162, 247, 0.1); border-color: #7aa2f7; }
+.swagger-ui .opblock.opblock-post { background: rgba(158, 206, 106, 0.1); border-color: #9ece6a; }
+
+
+
+
 # <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=94E2D5&center=true&vCenter=true&width=435&lines=📊+GitHub+Stats" alt="Typing SVG" /></p>
 
 <p align="center">

@@ -80,14 +80,8 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 
 
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=95d3a9&center=true&vCenter=true&width=500&lines=🌐+All+Languages+Stats" alt="Typing SVG" /></p>
 
-<div align="center">
-  
-<!-- All Languages (Detailed View) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=x11kitty&layout=donut-vertical&theme=catppuccin_mocha&hide_border=true&bg_color=1a1826&title_color=e8a2af&text_color=b5b4e2&icon_color=95d3a9&langs_count=20&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
-</div>
 
 
 

@@ -71,6 +71,96 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
   <img src="https://nirzak-streak-stats.vercel.app/?user=x11kitty&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
+
+
+
+
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F9E2AF&center=true&vCenter=true&width=500&lines=📊+Weekly+Development+Breakdown" alt="Typing SVG" /></p>
+
+<p align="center">
+  <div style="
+    background: linear-gradient(135deg, #1a1826 0%, #161320 100%);
+    padding: 25px;
+    border-radius: 20px;
+    border: 2px solid;
+    border-image: linear-gradient(45deg, #e8a2af, #b5b4e2, #95d3a9) 1;
+    box-shadow: 0 10px 30px rgba(108, 112, 134, 0.3);
+    max-width: 800px;
+    margin: 0 auto;
+  ">
+    
+    <!-- Custom Chart Visualization -->
+    <div style="background: #13111c; padding: 20px; border-radius: 12px;">
+      <div style="font-family: 'Fira Code', monospace; color: #b5b4e2; margin-bottom: 15px; text-align: center;">
+        <h3 style="margin: 0; color: #e8a2af;">🔄 This Week's Coding Activity</h3>
+      </div>
+      
+      <!-- Arch Linux Bar -->
+      <div style="margin-bottom: 15px;">
+        <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+          <span style="color: #95d3a9; font-family: 'Fira Code', monospace;">Arch Linux</span>
+          <span style="color: #988bc7; font-family: 'Fira Code', monospace;">45%</span>
+        </div>
+        <div style="background: #3a375e; height: 20px; border-radius: 10px; overflow: hidden;">
+          <div style="background: linear-gradient(90deg, #e8a2af, #b5b4e2); width: 45%; height: 100%; border-radius: 10px;"></div>
+        </div>
+      </div>
+      
+      <!-- Python Bar -->
+      <div style="margin-bottom: 15px;">
+        <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+          <span style="color: #95d3a9; font-family: 'Fira Code', monospace;">Python</span>
+          <span style="color: #988bc7; font-family: 'Fira Code', monospace;">35%</span>
+        </div>
+        <div style="background: #3a375e; height: 20px; border-radius: 10px; overflow: hidden;">
+          <div style="background: linear-gradient(90deg, #b5b4e2, #95d3a9); width: 35%; height: 100%; border-radius: 10px;"></div>
+        </div>
+      </div>
+      
+      <!-- Bash Bar -->
+      <div style="margin-bottom: 15px;">
+        <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+          <span style="color: #95d3a9; font-family: 'Fira Code', monospace;">Bash</span>
+          <span style="color: #988bc7; font-family: 'Fira Code', monospace;">20%</span>
+        </div>
+        <div style="background: #3a375e; height: 20px; border-radius: 10px; overflow: hidden;">
+          <div style="background: linear-gradient(90deg, #95d3a9, #e8a2af); width: 20%; height: 100%; border-radius: 10px;"></div>
+        </div>
+      </div>
+      
+      <div style="text-align: center; margin-top: 20px; color: #988bc7; font-size: 12px; font-family: 'Fira Code', monospace;">
+        ⚠️ Custom visualization • Real data from WakaTime
+      </div>
+    </div>
+    
+    <div style="
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      margin-top: 15px;
+      color: #988bc7;
+      font-size: 14px;
+      font-family: 'Fira Code', 'SF Mono', Monaco, monospace;
+      background: rgba(26, 24, 38, 0.7);
+      padding: 10px;
+      border-radius: 10px;
+      border: 1px solid #3a375e;
+    ">
+      <span>🎨 Catppuccin Mocha Retro Tokyo</span>
+      <span style="color: #b5b4e2;">•</span>
+      <span>🔄 Updated Daily</span>
+      <span style="color: #b5b4e2;">•</span>
+      <span>📈 Powered by WakaTime</span>
+    </div>
+  </div>
+</p>
+
+
+
+
+
+
+
 ### <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F38BA8&center=true&vCenter=true&width=435&lines=✍️+Random+Dev+Quote" alt="Typing SVG" /></p>
 
 <p align="center">

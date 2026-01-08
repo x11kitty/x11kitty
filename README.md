@@ -96,10 +96,10 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 
 
-## 📊 Repository Languages
 
-![Top Language](https://img.shields.io/github/languages/top/x11kitty/repo-name?color=e8a2af&labelColor=1a1826&style=for-the-badge)
-![Languages](https://img.shields.io/github/languages/count/x11kitty/repo-name?color=b5b4e2&labelColor=1a1826&style=for-the-badge)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=x11kitty&repo=repo-name&theme=catppuccin_mocha&hide_border=true&bg_color=1a1826&title_color=e8a2af&text_color=b5b4e2&icon_color=95d3a9" alt="Repo Card" />
+</p>
 
 
 

@@ -85,6 +85,25 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 
 
+graph LR
+    A[Python Ecosystem] --> B[Scripts: 42];
+    A --> C[Packages: 28];
+    A --> D[Coverage: 92%];
+    
+    E[Bash Automation] --> F[Scripts: 127];
+    E --> G[Functions: 56];
+    E --> H[Efficiency: +87%];
+    
+    I[Arch Linux] --> J[Uptime: 99.9%];
+    I --> K[Packages: 1,542];
+    I --> L[Services: 24];
+    
+    style A fill:#1a1826,stroke:#e8a2af,stroke-width:2px
+    style E fill:#1a1826,stroke:#b5b4e2,stroke-width:2px
+    style I fill:#1a1826,stroke:#95d3a9,stroke-width:2px
+    style B fill:#13111c,stroke:#95d3a9,stroke-width:1px,color:#95d3a9
+    style F fill:#13111c,stroke:#95d3a9,stroke-width:1px,color:#95d3a9
+    style J fill:#13111c,stroke:#95d3a9,stroke-width:1px,color:#95d3a9
 
 
 

@@ -96,32 +96,36 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 
 
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F9E2AF&center=true&vCenter=true&width=500&lines=💻+Top+Languages" alt="Typing SVG" /></p>
+---
+## 📊 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&color=95d3a9&width=280&lines=GitHub+Analytics" />
 
 <p align="center">
-  <div style="
-    background: linear-gradient(135deg, #1a1826 0%, #161320 100%);
-    padding: 25px;
-    border-radius: 20px;
-    border: 2px solid;
-    border-image: linear-gradient(45deg, #e8a2af, #b5b4e2, #95d3a9) 1;
-    box-shadow: 0 10px 30px rgba(108, 112, 134, 0.3);
-    max-width: 600px;
-    margin: 0 auto;
-  ">
-    
-    <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=x11kitty&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1a1826&title_color=e8a2af&text_color=b5b4e2&icon_color=95d3a9&hide=contribs,prs" 
-         alt="GitHub Stats" 
-         style="border-radius: 12px; width: 100%; margin-bottom: 20px;"
-    />
-    
-    <!-- Top Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x11kitty&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1a1826&title_color=e8a2af&text_color=b5b4e2&icon_color=95d3a9&langs_count=6&exclude_repo=dotfiles,configs" 
-         alt="Top Languages" 
-         style="border-radius: 12px; width: 100%;"
-    />
-  </div>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=x11kitty&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1a1826&title_color=e8a2af&text_color=b5b4e2&icon_color=95d3a9&hide=contribs,prs" 
+             alt="GitHub Stats" 
+             style="border-radius: 12px;"
+        />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x11kitty&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1a1826&title_color=e8a2af&text_color=b5b4e2&icon_color=95d3a9&langs_count=6" 
+             alt="Top Languages" 
+             style="border-radius: 12px;"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <div align="center" style="margin-top: 20px;">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=x11kitty&theme=catppuccin_mocha&hide_border=true&background=1a1826&ring=e8a2af&fire=e8a2af&currStreakLabel=b5b4e2&dates=988bc7" 
+               alt="GitHub Streak" 
+               style="border-radius: 12px; width: 100%; max-width: 800px;"
+          />
+        </div>
+      </td>
+    </tr>
+  </table>
 </p>
 
 

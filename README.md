@@ -67,19 +67,14 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 
 
-/* Custom Swagger UI Retro Tokyo Theme */
-.swagger-ui {
-  background-color: #1a1b26;
-  color: #a9b1d6;
-}
-.swagger-ui .topbar { background-color: #24283b; }
-.swagger-ui .info .title { color: #7aa2f7; }
-.swagger-ui .opblock-summary-method {
-  background: #7aa2f7; /* Default blue for methods */
-  border-radius: 4px;
-}
-.swagger-ui .opblock.opblock-get { background: rgba(122, 162, 247, 0.1); border-color: #7aa2f7; }
-.swagger-ui .opblock.opblock-post { background: rgba(158, 206, 106, 0.1); border-color: #9ece6a; }
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x11kitty&layout=compact&theme=tokyonight&langs_count=6&card_width=490&hide_border=true&title_color=cba6f7&icon_color=7dcfff&text_color=cdd6f4" alt="Top Langs" />
+</p>
+
+
+
+
 
 
 

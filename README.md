@@ -6,6 +6,9 @@
 ![GIF](cont.gif)
 
 <!--
+![GIF](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+-->
+<!--
 **x11kitty/x11kitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

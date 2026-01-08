@@ -74,9 +74,5 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 ### <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F38BA8&center=true&vCenter=true&width=435&lines=✍️+Random+Dev+Quote" alt="Typing SVG" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight](https://raw.githubusercontent.com/AndrewDongminYoo/wakatime-svg/output/generated/languages.svg" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="Dev Quote" />
 </p>

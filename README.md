@@ -65,6 +65,9 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
   </a>
 </p>
 
+
+## 💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&color=7dcfff&width=220&lines=Tech+Stack" />
+
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=x11kitty&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>

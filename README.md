@@ -65,7 +65,7 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
   </a>
 </p>
 
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=#9495e2&center=true&vCenter=true&width=435&lines=📊+GitHub+Stats" alt="Typing SVG" /></p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=#9495e2&center=true&vCenter=true&width=435&lines=📊+GitHub+Stats" alt="GitHub+Stats" /></p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=x11kitty&theme=tokyonight&hide_border=false" alt="GitHub Streak" />

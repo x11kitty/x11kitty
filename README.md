@@ -81,12 +81,8 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=x11kitty&repo=REPO-NAME&theme=catppuccin_mocha&hide_border=true" 
-       alt="Repository Stats" 
-       width="500"
-  />
-</p>
+
+
 
 
 

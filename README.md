@@ -82,79 +82,13 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 
 
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=e8a2af&center=true&vCenter=true&width=500&lines=⌨️+Live+Coding+Stats" alt="Typing SVG" /></p>
 
-<div align="center" style="
-    background: linear-gradient(135deg, #1a1826 0%, #161320 100%);
-    padding: 25px;
-    border-radius: 20px;
-    border: 2px solid;
-    border-image: linear-gradient(45deg, #e8a2af, #b5b4e2, #95d3a9) 1;
-    box-shadow: 0 10px 30px rgba(108, 112, 134, 0.3);
-    max-width: 900px;
-    margin: 0 auto;
-">
 
-## 📈 All-Time Language Distribution
 
-<!-- WakaTime All Time Stats -->
-<img src="https://wakatime.com/share/@YourWakaTimeUsername/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx.svg" 
-     alt="WakaTime All Time Stats" 
-     style="
-       border-radius: 12px;
-       background: #13111c;
-       padding: 15px;
-       width: 100%;
-       box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
-     "
-/>
 
-<div style="
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 15px;
-  margin-top: 20px;
-  text-align: left;
-">
-  <div style="
-    background: rgba(26, 24, 38, 0.7);
-    padding: 15px;
-    border-radius: 10px;
-    border-left: 4px solid #e8a2af;
-  ">
-    <div style="color: #e8a2af; font-weight: bold; font-family: 'Fira Code', monospace;">🐍 Python</div>
-    <div style="color: #b5b4e2; font-size: 14px;">Primary language for automation</div>
-  </div>
-  <div style="
-    background: rgba(26, 24, 38, 0.7);
-    padding: 15px;
-    border-radius: 10px;
-    border-left: 4px solid #95d3a9;
-  ">
-    <div style="color: #95d3a9; font-weight: bold; font-family: 'Fira Code', monospace;">💻 Bash</div>
-    <div style="color: #b5b4e2; font-size: 14px;">Shell scripting & automation</div>
-  </div>
-  <div style="
-    background: rgba(26, 24, 38, 0.7);
-    padding: 15px;
-    border-radius: 10px;
-    border-left: 4px solid #b5b4e2;
-  ">
-    <div style="color: #b5b4e2; font-weight: bold; font-family: 'Fira Code', monospace;">🐚 Shell</div>
-    <div style="color: #b5b4e2; font-size: 14px;">System administration</div>
-  </div>
-  <div style="
-    background: rgba(26, 24, 38, 0.7);
-    padding: 15px;
-    border-radius: 10px;
-    border-left: 4px solid #988bc7;
-  ">
-    <div style="color: #988bc7; font-weight: bold; font-family: 'Fira Code', monospace;">📝 Markdown</div>
-    <div style="color: #b5b4e2; font-size: 14px;">Documentation & READMEs</div>
-  </div>
-</div>
 
-</div>
+
+
 
 
 

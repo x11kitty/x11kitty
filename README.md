@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=Hi+there+👋+I+Am+Mr.Cat" alt="Typing SVG" />
 </p>
 
-![thumb](thumb.png)
+![thumb](int.png)
 ![GIF](cont.gif)
 
 <!--

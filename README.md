@@ -39,7 +39,7 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
   <img src="https://img.shields.io/badge/Python-121011?style=for-the-badge&logo=python&logoColor=89b4fa" /> 
   <img src="https://img.shields.io/badge/Arch_Linux-121011?style=for-the-badge&logo=arch-linux&logoColor=7dcfff" />
 <br>🔹 **Core Interests:** `System Internals` • `Scripting And Automation ` • `Workflow Optimization` • `Open-Source Tools`
-<br>🔹 **Objective:** To deepen my technical expertise and implement elegant, automated solutions that streamline operations and demonstrate the power of a well-understood system and Growing my skills through focused practice and continuous iteration.
+<br>🔹 **Objective:** To Deepen My Technical Expertise And Implement Elegant, Automated Solutions That Streamline Operations And Demonstrate The Power of a Well-Understood System and Growing My skills through focused Practice and Continuous iteration.
 
 <div align="center">
   <table border="0">

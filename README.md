@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 # 💫 About Me:
 -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=cba6f7&center=true&vCenter=true&width=500&lines=Computerphile+%26+Linux+Enthusiast;Automation+Specialist;Systems+Explorer" alt="Typing SVG" />
 </p>

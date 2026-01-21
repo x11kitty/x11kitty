@@ -80,9 +80,6 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vision-friendly-dark)
 -->
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
-
-
 ### <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F38BA8&center=true&vCenter=true&width=435&lines=✍️+Random+Dev+Quote" alt="Typing SVG" /></p>
 
 <p align="center">

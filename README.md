@@ -86,8 +86,6 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
 </p>
 
-![x11kitty GitHub stats](https://github-readme-stats.vercel.app/api?username=x11kitty&show_icons=true&theme=transparent)
-
 <p>
   <img src=
 "https://camo.githubusercontent.com/e77bffdc620695ca6432e2b6d4369a686ff2d1c2b7bed63e1aa8283f5cc4a024/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" />

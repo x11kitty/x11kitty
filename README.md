@@ -49,7 +49,7 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
   <br>
 
-  > **"First Understand The Computer,** > **Then Teach It To Work For You."**
+  > **"First Understand The Computer,** > <br>**Then Teach It To Work For You."**
 </div>
 
 

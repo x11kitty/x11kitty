@@ -41,9 +41,29 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 <br>🔹 **Core Interests:** `System Internals` • `Scripting And Automation ` • `Workflow Optimization` • `Open-Source Tools`
 <br>🔹 **Objective:** To Deepen My Technical Expertise And Implement Elegant, Automated Solutions That Streamline Operations And Demonstrate The Power of a Well-Understood System and Growing My skills through focused Practice and Continuous iteration.
 
+
+
+
 <div align="center">
-  
+<div style="text-align: center; padding: 20px;">
+  <h2 style="
+    font-family: 'Fira Code', monospace;
+    font-weight: 700;
+    font-size: 28px;
+    background: linear-gradient(to right, #7aa2f7, #2ac3de, #89ddff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    margin: 0;
+  ">
+    "First Understand The Computer, <br>
+    Then Teach It To Work For You."
+  </h2>
+</div>  
 </div>
+
+
+
 
 ---
 ## 💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&color=7dcfff&width=220&lines=Tech+Stack" />

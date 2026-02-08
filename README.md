@@ -47,7 +47,7 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 <div align="center">
   <img src="images/wifu.png" width="300" style="border-radius: 15px;" alt="Random Anime Character" />
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&height=100&lines=%22First+Understand+The+Computer%2C;Then+Teach+It+To+Work+For+You.%22" alt="Blue Gradient Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&height=100&lines=%22First+Understand+The+Computer%2C;Then+Teach+It+To+Work+For+You.%22" alt="Sky Blue Quote" />
 </div>
 
 

@@ -49,6 +49,9 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 
 
+
+
+
 <div align="center">
   <img src="u.png" width="300" style="border: 3px solid #89dceb; border-radius: 15px;" alt="Profile Image" />
 
@@ -57,10 +60,9 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
   <table border="0">
     <tr>
       <td align="center" style="border: 2px solid #89dceb; border-radius: 12px; padding: 25px; background-color: #1e1e2e;">
-        <span style="color: #89dceb; font-size: 18px; font-weight: bold;">
-          "First Understand The Computer,<br>
-          Then Teach It To Work For You."
-        </span>
+        $${\color{#89dceb} \Huge \textbf{"First \space Understand \space The \space Computer,}}$$
+        <br>
+        $${\color{#89dceb} \Huge \textbf{Then \space Teach \space It \space To \space Work \space For \space You."}}$$
       </td>
     </tr>
   </table>

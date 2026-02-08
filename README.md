@@ -47,26 +47,26 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 
 
-<div style="background-color: #181825; padding: 40px; border-radius: 20px; text-align: center; font-family: 'Fira Code', monospace;">
-  
-  <img src="u.png" width="300" 
-       style="border: 3px solid #89dceb; border-radius: 15px; margin-bottom: 25px; box-shadow: 0 8px 20px rgba(0,0,0,0.5);" 
-       alt="Random Anime Character" />
 
-  <br>
 
-  <table border="0" style="margin: 0 auto; border-collapse: separate;">
+<div align="center">
+  <img src="u.png" width="300" style="border: 3px solid #89dceb; border-radius: 15px;" alt="Profile Image" />
+
+  <br><br>
+
+  <table border="0">
     <tr>
       <td align="center" style="border: 2px solid #89dceb; border-radius: 12px; padding: 25px; background-color: #1e1e2e;">
-        <span style="color: #89dceb; font-size: 18px; font-weight: bold; line-height: 1.6;">
+        <span style="color: #89dceb; font-size: 18px; font-weight: bold;">
           "First Understand The Computer,<br>
           Then Teach It To Work For You."
         </span>
       </td>
     </tr>
   </table>
-
 </div>
+
+
 
 
 

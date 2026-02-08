@@ -47,16 +47,15 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 <div align="center">
   <img src="images/wifu.png" width="300" style="border-radius: 15px;" alt="Random Anime Character" />
 
-  <br><br>
+  <br>
 
-  <div style="border-left: 4px solid #89b4fa; padding-left: 20px; display: inline-block;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&color=89DCEB&center=true&vCenter=true&width=450&height=35&lines=%22First+Understand+The+Computer%2C" alt="Line 1" />
-    
-    <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&color=00D2FF&center=true&vCenter=true&width=500&height=40&lines=%22First+Understand+The+Computer%2C" alt="Line 1" />
 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&color=89B4FA&center=true&vCenter=true&width=450&height=35&lines=Then+Teach+It+To+Work+For+You.%22" alt="Line 2" />
-  </div>
+  <br>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&color=3A7BD5&center=true&vCenter=true&width=500&height=40&lines=Then+Teach+It+To+Work+For+You.%22" alt="Line 2" />
 </div>
+
 
 
 

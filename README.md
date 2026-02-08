@@ -59,8 +59,8 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
     <tr>
       <td align="center" style="border: 2px solid #89dceb; border-radius: 12px; padding: 25px; background-color: #1e1e2e;">
         <p>
-          $\color{#4fafdb}\Large\textbf{"First Understand The Computer,}$<br>
-          $\color{#4f8cdb}\Large\textbf{Then Teach It To Work For You."}$
+          $\color{#50cdfa}\Large\textbf{"First Understand The Computer,}$<br>
+          $\color{#509afa}\Large\textbf{Then Teach It To Work For You."}$
         </p>
       </td>
     </tr>

@@ -44,22 +44,23 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 
 
-<div align="center">
-<div style="text-align: center; padding: 20px;">
+<div align="center" style="margin: 20px 0;">
+  <img src="images/wifu.png" width="300" style="border-radius: 15px; display: block; margin-bottom: 15px;" alt="Random Anime Character" />
+
   <h2 style="
     font-family: 'Fira Code', monospace;
     font-weight: 700;
-    font-size: 28px;
+    font-size: 24px;
     background: linear-gradient(to right, #7aa2f7, #2ac3de, #89ddff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     display: inline-block;
     margin: 0;
+    line-height: 1.4;
   ">
-    "First Understand The Computer, <br>
+    "First Understand The Computer,<br>
     Then Teach It To Work For You."
   </h2>
-</div>  
 </div>
 
 

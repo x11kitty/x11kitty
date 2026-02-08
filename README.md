@@ -44,24 +44,10 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 
 
-<div align="center" style="margin: 20px 0;">
-  <img src="images/wifu.png" width="300" style="border-radius: 15px; display: block; margin-bottom: 20px;" alt="Random Anime Character" />
-
-  <h2 style="
-    font-family: 'Fira Code', monospace;
-    font-weight: 800;
-    font-size: 26px;
-    background: linear-gradient(90deg, #00d2ff 0%, #3a7bd5 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    display: inline-block;
-    margin: 0;
-    line-height: 1.5;
-    letter-spacing: -0.5px;
-  ">
-    "First Understand The Computer,<br>
-    Then Teach It To Work For You."
-  </h2>
+<div align="center">
+  <img src="images/wifu.png" width="300" style="border-radius: 15px;" alt="Random Anime Character" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&height=100&lines=%22First+Understand+The+Computer%2C;Then+Teach+It+To+Work+For+You.%22" alt="Blue Gradient Quote" />
 </div>
 
 

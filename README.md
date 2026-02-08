@@ -47,9 +47,12 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 <div align="center">
   <img src="u.png" width="300" style="border-radius: 15px;" alt="Random Anime Character" />
 
-  <br>
+  <br><br>
 
-  > **"First Understand The Computer,** > <br>**Then Teach It To Work For You."**
+  <p style="font-family: 'Fira Code', monospace; font-weight: bold; font-style: italic;">
+    <span style="color: #74C7EC;">"First Understand The Computer,</span><br>
+    <span style="color: #89B4FA;">Then Teach It To Work For You."</span>
+  </p>
 </div>
 
 

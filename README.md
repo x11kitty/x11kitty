@@ -54,9 +54,7 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 <div align="center">
   <img src="u.png" width="300" style="border: 5px solid #89dceb; border-radius: 15px;" alt="Profile Image" />
-
-  <br><br>
-
+  <br>
   <table border="0">
     <tr>
       <td align="center" style="border: 2px solid #89dceb; border-radius: 12px; padding: 25px; background-color: #1e1e2e;">

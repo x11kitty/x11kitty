@@ -42,24 +42,7 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 <br>🔹 **Objective:** To Deepen My Technical Expertise And Implement Elegant, Automated Solutions That Streamline Operations And Demonstrate The Power of a Well-Understood System and Growing My skills through focused Practice and Continuous iteration.
 
 <div align="center">
-
-  <img src="images/wifu.png" width="350" style="border-radius: 20px; border: 3px solid #00CCFF; box-shadow: 0 10px 30px rgba(0, 204, 255, 0.4);" alt="System Mastery" />
-
-  <br>
-  <br>
-
-  <div style="background: linear-gradient(135deg, #00CCFF, #87CEEB); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    <code style="font-size: 1.2em; font-weight: 400; letter-spacing: 2px; color: #00CCFF;">
-      "First understand the system."
-    </code>
-    <br>
-    <h1 style="color: #87CEEB; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 2.2em; margin-top: 10px; border: none;">
-      Then teach it to work for you.
-    </h1>
-  </div>
-
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00CCFF&height=60&section=footer" width="100%" />
-
+  
 </div>
 
 ---

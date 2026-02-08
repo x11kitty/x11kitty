@@ -45,7 +45,7 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 
 <div align="center">
-  <img src="images/wifu.png" width="300" style="border-radius: 15px;" alt="Random Anime Character" />
+  <img src="u.png" width="300" style="border-radius: 15px;" alt="Random Anime Character" />
 
   <br>
 

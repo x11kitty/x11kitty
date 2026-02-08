@@ -53,13 +53,20 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
   <br><br>
 
-  <table border="0" style="border-collapse: separate; border-spacing: 0;">
+<table border="0" style="border-collapse: separate; border-spacing: 0;">
     <tr>
-      <td align="center" style="border: 2px solid #89dceb; border-radius: 12px; padding: 25px; background-color: #1e1e2e;">
-        <font color="#89dceb" face="Fira Code, monospace" size="4">
-          <b>"First Understand The Computer,</b><br>
-          <b>Then Teach It To Work For You."</b>
+      <td align="center" style="
+        border: 2px solid #89dceb; 
+        border-radius: 12px; 
+        padding: 25px; 
+        background-color: #1e1e2e; 
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);">
+        
+        <font face="Fira Code, monospace" size="4" style="color: #89dceb; line-height: 1.5;">
+          <b style="letter-spacing: 0.5px;">"First Understand The Computer,</b><br>
+          <b style="letter-spacing: 0.5px;">Then Teach It To Work For You."</b>
         </font>
+        
       </td>
     </tr>
   </table>

@@ -46,7 +46,6 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
   <br>
   <p><i>"First understand the system,."</i></p>
     <p><i>" Then teach it to work for you."</i></p>
-</br>
 </div>
 
 ---

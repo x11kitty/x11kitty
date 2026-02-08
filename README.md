@@ -42,18 +42,11 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 <br>🔹 **Objective:** To Deepen My Technical Expertise And Implement Elegant, Automated Solutions That Streamline Operations And Demonstrate The Power of a Well-Understood System and Growing My skills through focused Practice and Continuous iteration.
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <div align="center">
-          <br>
-          $${ \color{#A6E3A1} \Huge \text{“First understand the system —} }$$
-          $${ \color{#A6E3A1} \Huge \text{then teach it to work for you.”} }$$
-          <br>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img src="images/wifu.png" width="300" style="border-radius: 15px;" alt="Random Anime Character" />
+  <br>
+  <p><i>"System optimized. First understand the system,."</i></p>
+    <p><i>"System optimized. then teach it to work for you."</i></p>
+</br>
 </div>
 
 ---

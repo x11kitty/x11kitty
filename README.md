@@ -50,9 +50,6 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
   <br>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&color=00D2FF&center=true&vCenter=true&width=500&height=40&lines=%22First+Understand+The+Computer%2C" alt="Line 1" />
-
-  <br>
-
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&color=3A7BD5&center=true&vCenter=true&width=500&height=40&lines=Then+Teach+It+To+Work+For+You.%22" alt="Line 2" />
 </div>
 

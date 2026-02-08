@@ -47,31 +47,26 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 
 
+<div style="background-color: #181825; padding: 40px; border-radius: 20px; text-align: center; font-family: 'Fira Code', monospace;">
+  
+  <img src="u.png" width="300" 
+       style="border: 3px solid #89dceb; border-radius: 15px; margin-bottom: 25px; box-shadow: 0 8px 20px rgba(0,0,0,0.5);" 
+       alt="Random Anime Character" />
 
-<div align="center">
-  <img src="u.png" width="300" style="border-radius: 15px;" alt="Random Anime Character" />
+  <br>
 
-  <br><br>
-
-<table border="0" style="border-collapse: separate; border-spacing: 0;">
+  <table border="0" style="margin: 0 auto; border-collapse: separate;">
     <tr>
-      <td align="center" style="
-        border: 2px solid #89dceb; 
-        border-radius: 12px; 
-        padding: 25px; 
-        background-color: #1e1e2e; 
-        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);">
-        
-        <font face="Fira Code, monospace" size="4" style="color: #89dceb; line-height: 1.5;">
-          <b style="letter-spacing: 0.5px;">"First Understand The Computer,</b><br>
-          <b style="letter-spacing: 0.5px;">Then Teach It To Work For You."</b>
-        </font>
-        
+      <td align="center" style="border: 2px solid #89dceb; border-radius: 12px; padding: 25px; background-color: #1e1e2e;">
+        <span style="color: #89dceb; font-size: 18px; font-weight: bold; line-height: 1.6;">
+          "First Understand The Computer,<br>
+          Then Teach It To Work For You."
+        </span>
       </td>
     </tr>
   </table>
-</div>
 
+</div>
 
 
 

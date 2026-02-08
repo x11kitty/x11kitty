@@ -51,20 +51,10 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
   <br><br>
 
-  <svg width="400" height="60">
-    <defs>
-      <linearGradient id="skyGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#89dceb; stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#74c7ec; stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="30%" text-anchor="middle" font-family="'Fira Code', monospace" font-weight="bold" font-style="italic" fill="url(#skyGradient)" font-size="18">
-      "First Understand The Computer,
-    </text>
-    <text x="50%" y="70%" text-anchor="middle" font-family="'Fira Code', monospace" font-weight="bold" font-style="italic" fill="url(#skyGradient)" font-size="18">
-      Then Teach It To Work For You."
-    </text>
-  </svg>
+  <p style="font-family: monospace; font-weight: bold; font-style: italic;">
+    <span style="color: #89dceb;">"First Understand The Computer,</span><br>
+    <span style="color: #74c7ec;">Then Teach It To Work For You."</span>
+  </p>
 </div>
 
 

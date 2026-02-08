@@ -53,20 +53,24 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 
 <div align="center">
-  <img src="u.png" width="300" style="border: 3px solid #89dceb; border-radius: 15px;" alt="Profile Image" />
+  <img src="u.png" width="300" style="border: 5px solid #89dceb; border-radius: 15px;" alt="Profile Image" />
 
-  <br><br>
+  <br>
 
   <table border="0">
     <tr>
-      <td align="center" style="border: 2px solid #89dceb; border-radius: 12px; padding: 25px; background-color: #1e1e2e;">
-        $${\color{#89dceb} \Huge \textbf{"First \space Understand \space The \space Computer,}}$$
+      <td align="center" style="border: 2px solid #89dceb; border-radius: 12px; padding: 20px; background-color: #1e1e2e;">
         <br>
-        $${\color{#89dceb} \Huge \textbf{Then \space Teach \space It \space To \space Work \space For \space You."}}$$
+        <p align="center">
+          <img src="https://math.jianshu.com/math?formula=%5Ccolor%7B%2389dceb%7D%20%5Ctextbf%7B%22First%20Understand%20The%20Computer%2C%22%7D" alt="First Understand The Computer">
+          <br>
+          <img src="https://math.jianshu.com/math?formula=%5Ccolor%7B%2389dceb%7D%20%5Ctextbf%7B%22Then%20Teach%20It%20To%20Work%20For%20You.%22%7D" alt="Then Teach It To Work For You">
+        </p>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 

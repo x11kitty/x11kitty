@@ -44,8 +44,8 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 <div align="center">
   <img src="images/wifu.png" width="300" style="border-radius: 15px;" alt="Random Anime Character" />
   <br>
-  <p><i>"System optimized. First understand the system,."</i></p>
-    <p><i>"System optimized. then teach it to work for you."</i></p>
+  <p><i>"First understand the system,."</i></p>
+    <p><i>" Then teach it to work for you."</i></p>
 </br>
 </div>
 

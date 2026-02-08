@@ -48,13 +48,10 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 <div align="center">
   <img src="u.png" width="300" style="border-radius: 15px;" alt="Random Anime Character" />
-
   <br>
-
-  <h2 style="color: #74C7EC; font-family: 'Fira Code', monospace;">
-    "First Understand The Computer, Then Teach It To Work For You."
-  </h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=89DCEB&center=true&vCenter=true&width=600&height=100&lines=First+Understand+The+Computer%2C;Then+Teach+It+To+Work+For+You.&repeat=false" alt="Static Quote" />
 </div>
+
 
 
 

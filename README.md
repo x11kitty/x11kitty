@@ -48,10 +48,19 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 <div align="center">
   <img src="u.png" width="300" style="border-radius: 15px;" alt="Random Anime Character" />
-  
-  <br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=89DCEB&secondaryColor=74C7EC&center=true&vCenter=true&width=600&height=100&lines=First+Understand+The+Computer%2C;Then+Teach+It+To+Work+For+You.&repeat=false&duration=1" alt="Quote" />
+  <br><br>
+
+  <table border="0">
+    <tr>
+      <td align="center" style="border: 2px solid #89DCEB; border-radius: 15px; padding: 20px;">
+        <code style="color: #89DCEB; font-size: 1.2em;">
+          "First Understand The Computer,<br>
+          Then Teach It To Work For You."
+        </code>
+      </td>
+    </tr>
+  </table>
 </div>
 
 

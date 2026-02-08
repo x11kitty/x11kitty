@@ -46,6 +46,7 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
 
 
+
 <div align="center">
   <img src="u.png" width="300" style="border-radius: 15px;" alt="Random Anime Character" />
 
@@ -53,15 +54,16 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 
   <table border="0">
     <tr>
-      <td align="center" style="border: 2px solid #89DCEB; border-radius: 15px; padding: 20px;">
-        <code style="color: #89DCEB; font-size: 1.2em;">
-          "First Understand The Computer,<br>
-          Then Teach It To Work For You."
-        </code>
+      <td align="center" style="border: 2px solid #89DCEB; border-radius: 12px; padding: 25px; background-color: #1e1e2e;">
+        <font color="#89DCEB" face="Fira Code, monospace" size="4">
+          <b>"First Understand The Computer,</b><br>
+          <b>Then Teach It To Work For You."</b>
+        </font>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 

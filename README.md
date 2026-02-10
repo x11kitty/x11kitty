@@ -75,7 +75,7 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
   <img src="https://nirzak-streak-stats.vercel.app/?user=x11kitty&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak" />
 </p>
 
-## 💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&color=7dcfff&width=220&lines=Top+Contributed+Repositories" />
+## 💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&color=A6E3A1&width=450&lines=Top+Contributed+Repositories" />
 ![](https://github-contributor-stats.vercel.app/api?username=x11kitty&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!--
@@ -83,7 +83,7 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vision-friendly-dark)
 -->
 
-### <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A6E3A1&center=true&vCenter=true&width=435&lines=✍️+Random+Dev+Quote" alt="Typing SVG" /></p>
+### <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F38BA8&center=true&vCenter=true&width=435&lines=✍️+Random+Dev+Quote" alt="Typing SVG" /></p>
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />

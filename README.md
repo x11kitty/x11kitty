@@ -72,7 +72,7 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=x11kitty&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=x11kitty&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <!--

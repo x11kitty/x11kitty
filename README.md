@@ -43,6 +43,7 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 <br>🔹 **Core Interests:** `System Internals` • `Scripting And Automation ` • `Workflow Optimization` • `Open-Source Tools`
 <br>🔹 **Objective:** To Deepen My Technical Expertise And Implement Elegant, Automated Solutions That Streamline Operations And Demonstrate The Power of a Well-Understood System and Growing My skills through focused Practice and Continuous iteration.
 
+<!--
 <div align="center">
   <img src="u.png" width="299" style="border: 4px solid #89dceb; border-radius: 15px;" alt="Profile Image" />
   <br>
@@ -57,6 +58,7 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
     </tr>
   </table>
 </div>
+-->
 
 ---
 ## 💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&color=7dcfff&width=220&lines=Tech+Stack" />

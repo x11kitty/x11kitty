@@ -1,52 +1,92 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=Hi+there+👋+I+Am+Mr.Cat" alt="Typing SVG" />
+</p>
 
-###
+![thumb](thumbp.png)
+![GIF](cont.gif)
+
+<!--
+![GIF](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+-->
+<!--
+**x11kitty/x11kitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ....
+- ⚡ Fun fact: ....
+# 💫 About Me: ....
+-->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=cba6f7&center=true&vCenter=true&width=500&lines=Computerphile+%26+Linux+Enthusiast;Automation+Specialist;Systems+Explorer" alt="Typing SVG" />
+</p>
+
+---
+
+## 💫 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&color=bb9af7&width=200&lines=About+Me" />
+
+A dedicated technology enthusiast with a deep-seated passion for understanding computing systems at their core. Driven by curiosity and precision, I focus on mastering **Bash** and to build efficient, automated workflows that enhance productivity and system performance.
+
+### 🚀 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&color=7aa2f7&width=300&lines=Currently+Focusing" />
+
+🔹 **Mastering:** <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=cba6f7" /> 
+  <img src="https://img.shields.io/badge/Arch_Linux-121011?style=for-the-badge&logo=arch-linux&logoColor=7dcfff" />
+<br>🔹 **Core Interests:** `System Internals` • `Scripting And Automation ` • `Workflow Optimization` • `Open-Source Tools`
+<br>🔹 **Objective:** To Deepen My Technical Expertise And Implement Elegant, Automated Solutions That Streamline Operations And Demonstrate The Power of a Well-Understood System and Growing My skills through focused Practice and Continuous iteration.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="u.png" width="300" style="border: 5px solid #89dceb; border-radius: 15px;" alt="Profile Image" />
+  <br>
+  <table border="0">
+    <tr>
+      <td align="center" style="border: 2px solid #89dceb; border-radius: 12px; padding: 25px; background-color: #1e1e2e;">
+        <p>
+          $\color{#50cdfa}\Large\textbf{First Understand The Computer,}$<br>
+          $\color{#509afa}\Large\textbf{Then Teach It To Work For You.}$
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+---
+## 💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&color=7dcfff&width=220&lines=Tech+Stack" />
+<!--![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff) -->
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=#5aff57) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)![Vim](https://img.shields.io/badge/%20%20%20%20%20Vim%20%20%20%20%20-a6e3a1?style=for-the-badge&logo=vim&logoColor=1e1e2e&labelColor=a6e3a1)
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,linux,arch,vim,git,github&perline=7" />
+  </a>
+</p>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=b394e2&center=true&vCenter=true&width=435&lines=📊+GitHub+Stats" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=x11kitty&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
 
-###
+<!--
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=b394e2&center=true&vCenter=true&width=435&lines=💻+Most+Used+Languages" alt="Typing SVG" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vision-friendly-dark)
+-->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+### <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F38BA8&center=true&vCenter=true&width=435&lines=✍️+Random+Dev+Quote" alt="Typing SVG" /></p>
 
-###
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
+</p>
+
+<p>
+  <img src=
+"https://camo.githubusercontent.com/e77bffdc620695ca6432e2b6d4369a686ff2d1c2b7bed63e1aa8283f5cc4a024/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" />
+</p>

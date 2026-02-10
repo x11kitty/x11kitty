@@ -44,7 +44,7 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
 <br>🔹 **Objective:** To Deepen My Technical Expertise And Implement Elegant, Automated Solutions That Streamline Operations And Demonstrate The Power of a Well-Understood System and Growing My skills through focused Practice and Continuous iteration.
 
 <div align="center">
-  <img src="u.png" width="400" style="border: 5px solid #89dceb; border-radius: 15px;" alt="Profile Image" />
+  <img src="u.png" width="200" style="border: 4px solid #89dceb; border-radius: 15px;" alt="Profile Image" />
   <br>
   <table border="0">
     <tr>

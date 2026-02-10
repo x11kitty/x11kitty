@@ -75,13 +75,17 @@ A dedicated technology enthusiast with a deep-seated passion for understanding c
   <img src="https://nirzak-streak-stats.vercel.app/?user=x11kitty&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x11kitty&layout=compact&theme=catppuccin_mocha&text_color=a6e3a1&icon_color=a6e3a1&hide_border=true" alt="Top Languages" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=x11kitty&repo=YOUR_TOP_REPO_NAME&theme=catppuccin_mocha&title_color=a6e3a1&icon_color=a6e3a1&hide_border=true" />
-</p>
+
+
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=x11kitty&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
+
 <!--
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=b394e2&center=true&vCenter=true&width=435&lines=💻+Most+Used+Languages" alt="Typing SVG" />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vision-friendly-dark)
